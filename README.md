@@ -48,5 +48,3 @@ python main.py
 MIT
 
 ---
-
-Clean and simple — just about the project itself!
